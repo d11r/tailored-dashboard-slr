@@ -14,6 +14,7 @@ This repository seeks to provide transparent results of the systematic literatur
 - [Raw Data from Web of Science](#web-of-science)
 - [Combined Data](#combined-data)
 - [Combined Data Without Duplicated](#combined-without-duplicated)
+- [Included in the Review](#included-in-review)
 
 # Springer Link Conferences
 
@@ -42,3 +43,7 @@ This repository seeks to provide transparent results of the systematic literatur
 # Combined Without Duplicated
 
 [final_filtered.csv](csv/final_filtered.csv)
+
+# Included in Review
+
+[selected.csv](csv/selected.csv)
